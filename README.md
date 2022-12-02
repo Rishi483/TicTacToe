@@ -1,5 +1,5 @@
 # TicTacToe
-A tictactoe game developed using java and java Swing
+A tic-tac-toe game developed using java and java Swing
 
 Here are some screenshots of the program
 <img width="1440" alt="Screenshot 2022-12-02 at 10 16 50 PM" src="https://user-images.githubusercontent.com/97284468/205343955-c5872b71-f1d5-42ff-bf46-d85cff10a7f3.png">
